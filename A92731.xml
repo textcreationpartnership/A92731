@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Scots policie: to asassinate our English monarchy. Who hide their worldly encroachments, under pretence of religion. And by introducing their owne government in England, would thereby become not only equall with us, but of our mercenaries become our lords. All which is discoursed by way of complaint made by the Scotch presbytery.</title>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92731</idno><idno type="EEBO-CITATION">99862323</idno>
+  <idno type="VID">114478</idno>
+  <idno type="EEBO-PROQUEST">2240952668</idno>
+  
+            <idno type="STC">Wing S2029</idno>
+            <idno type="STC">Thomason E402_25</idno>
+            <idno type="STC">ESTC R201832</idno>
+            <idno type="PROQUEST">99862323</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99862323e"/>
+            <note>(EEBO-TCP ; phase 2, no. A92731)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114478)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 64:E402[25])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Scots policie: to asassinate our English monarchy. Who hide their worldly encroachments, under pretence of religion. And by introducing their owne government in England, would thereby become not only equall with us, but of our mercenaries become our lords. All which is discoursed by way of complaint made by the Scotch presbytery.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeere, 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "Aug: 19th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Church of Scotland --  Government --  Early works to 1800.</term>
+               <term type="topical_term">Presbyterianism --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Scotland --  Foreign relations --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Foreign relations --  Scotland --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114478:1"/>
+            <p>THE SCOTS POLICIE: To asassinate our English Monarchy.</p>
+            <p>Who hide their worldly encroachments, under pretence of Religion.</p>
+            <p>And by introducing their owne Government in England, would thereby become not only equall with us, but of our Mercenaries become our Lords.</p>
+            <p>All which is discoursed by way of complaint made by the Scotch Presbytery.</p>
+            <p>Printed in the Yeere, 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:114478:2"/>
+            <pb n="1" facs="tcp:114478:2"/>
+            <head>The outcry of the Scotish Presbytery: And <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he rest of that false and beggerly Nation, who have been ever ready, and still would be con<g ref="char:EOLhyphen"/>tented to lose their owne Countrey if they might gaine ours.</head>
+            <p>
+               <seg rend="decorInit">A</seg>Las deare Brethren, did wee ever thinke you would so forget your Solemne League and Covenant, such a cord, as wee had thought with it, to have drawne wheresoe<g ref="char:EOLhyphen"/>ver wee had pleased: have wee so cheerefully adventured our lives (for your Goods) even with as much willingnesse as any one among us, would change his Scotch Hobby, for an English Gelding? did wee take in New Castle in a timely manner, ere you were compelled to burne the stooles you sat on, and helpt you to coales, when the Cavalieres threatned to kill you with agues? did wee give the King into your hands, to be disposed of at your pleasures in hope afterwards, in gud faith to be aw Kings, and Leards over you, and yet have you s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> little love to us, as to slight our proffred friendship, and to re<g ref="char:EOLhyphen"/>fuse to draw with us in one yoke, to retard the settling of
+<pb n="2" facs="tcp:114478:3"/> the Presbyterie, the onely way under God to make you a free, and happy N<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tion (as we our selves at this day) who have but in one parish not containing above thirty houses at least twenty Lords, consisting of Ministeriall, and ru<g ref="char:EOLhyphen"/>ling Lay-Elders, who use us their inferiours, with such clemency, and ingenuity, that speake wee with never so much warinesse, act wee with never so much civillity, let our carriage be never so steddy, wee cannot speake with<g ref="char:EOLhyphen"/>out their censure; act without their reproo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, shape our gestures according to their prescription, &amp; so consequent<g ref="char:EOLhyphen"/>ly cannot walk without the compasse of their verge. Ah deare brethren, had you joyned with us in one &amp; <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he same Religion, how sweetly had wee now drawne together in one yoke, then wee could have taken up that sweet saying of <hi>Hamor</hi> the son of <hi>Sichem,</hi> should not your goods, and your Cattle be ours, ah deare B<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ethren, instead of ado<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing that venerable Geneva Gentleman, Sir <hi>Iohn Presbyter,</hi> the Dagon of Scotland, you have let him fal<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> upon the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hre<g ref="char:EOLhyphen"/>shold of Ashod, so that his hands and feet are cut off, and he lyeth groveling on the ground, and no man is found to lift him up; yea, you have suffered one to write his last Will and Testament, who hath abused the trust reposed in him, with a meere mock will, hath given ridiculous Le<g ref="char:EOLhyphen"/>gacies to the principall of our Presby<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erian Bulls, D<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. <hi>Sib<g ref="char:EOLhyphen"/>bals</hi> D<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. <hi>Burges,</hi> Mr. <hi>Case,</hi> and Mr. <hi>Callamy,</hi> writing an a<g ref="char:EOLhyphen"/>busiv<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Epitaph over his Tombe, sufficient to make him infamous to Posterity: Alas deare brethren, wee had not the least thought that you would be oreswaied by the In<g ref="char:EOLhyphen"/>dependent party, resident in the Army, whose protestati<g ref="char:EOLhyphen"/>ons are notorious, that they have fought for lib<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rty of conscience the only gap to all manner of licentiousnesse, who are men of all Religions, and consequently of no re<g ref="char:EOLhyphen"/>ligion;
+<pb n="3" facs="tcp:114478:3"/> O had you beene but ruled by <hi>Bunce, Langley, Biggs,</hi> and <hi>Adams,</hi> you had never permitted that Army to enter in at your City Gates, had you not faithfull <hi>Waller, Pointz,</hi> and <hi>Massey,</hi> who poore man for all his good ser<g ref="char:EOLhyphen"/>vises, you suffred to be affronted in the heart of your Ci<g ref="char:EOLhyphen"/>ty, while a Schismatick was seene to throw a durty bunch of carrots in his face, which manifestly bedawbed his carrot beard; yet he like a valliant mastive that scorneth to returne snap for snap with his inferiours, to wit little mungrills, passed along with much Maj<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sty, and only wa<g ref="char:EOLhyphen"/>ved his sword about his head, to give signall what he was, whom they bespattered, having the aforenamed for your Cou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sellors, and these for your Generalls, you had little reason to suspect your inability to fight with the In<g ref="char:EOLhyphen"/>dependents, you could not chuse but have prospered in your designes, for you had had the effectuall prayers of the Presbytery, the Classicall Nationall and provinciall As<g ref="char:EOLhyphen"/>semblies; besides according to our Scottish angury, there was a good omen which prognosticated your future suc<g ref="char:EOLhyphen"/>cesse, an Owle, which in stead of the Eagle, we take to be <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oves harnesse bearer, lighted upon the chiefest Steeple in <hi>Edenborough,</hi> and there after much howling, while most of the City ran to behold her, she spake with an humane voyce, though you must understand, something Parrat like, saying; <hi>The City is in Armes, The City is in Armes:</hi> Now, deare Brethren, you must know wee guessed this happy Bird to have come from London, to found the A<g ref="char:EOLhyphen"/>larum to us, and relying with much confidence on the words of Bubo, we rejoiced in your resolutions, so sted<g ref="char:EOLhyphen"/>fastly fixed to oppose that devouring Army; but alas, a<g ref="char:EOLhyphen"/>las, contrary to our hopes, you have in stead of fighting against them, lovingly imbraced them, and let them in to
+<pb n="4" facs="tcp:114478:4"/> your bosomes, and what can we expect, nay it is without question, that by them instigated, Presbytery will never be setled amongst you, nor ever must wee hope that you will be conformed to the forme of our Presbyteriall Go<g ref="char:EOLhyphen"/>vernment, and so we utterly disappointed of our hopes, to enjoy those golden dayes againe in England, which we once had under gud King Jemy, when enamoured of the clusters of the English Chanaan, wee used all meanes to get ground on this side Jordan, <hi>alias</hi> Tweed, &amp; at length became possessors of fayre Vineyards, and were able to vie Lordships, with the wealthiest English, thankes to our gud King: but now those passages are blockt up, and our deare B<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ethren whom we had hoodwinckt, and prepared to entertaine any change, though to their owne prejudice, render our government odious, especially to tender con<g ref="char:EOLhyphen"/>sciences, and our deare Brethren now looke upon us as underlings, not considering that wee came meerely with an intention (for all their goods) and account us onely in<g ref="char:EOLhyphen"/>gaged (necessity requiring it) as mercenaries and hirelings to the English Parliament, not considering that we entred with them in a solemn League &amp; Coven<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt, out of a pious intention, that our S<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch Oats might bee exchanged for English Wheat, and our lowsie dublets for fresh clothing; and whe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eas before we had some hopes to see our desires fulfilled, now those hopes are vanished into ayre, and the Scotch governement generally detested by reasonable men: therefore seeing it is so, that our deare Brethren have hearkened to the desires of the Independents, wee shall bee inforced to force that government upon them, which they once seemed so willingly to imbrace: for we are valiant enough, and have one advantage abo<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> other men, (in possessing little) and therefore we feare <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> con<g ref="char:EOLhyphen"/>quest;
+<pb n="5" facs="tcp:114478:4"/> for our Country affoordeth little of worth or in<g ref="char:EOLhyphen"/>vitation, that may allure men to a warre.</p>
+            <p>Our deare Brethren, to our unspeakable griefe, do now begin to indevor to preserve themselves from our world<g ref="char:EOLhyphen"/>ly encroachments, under the pretence of Religion, alas, they have found out, that though wee present it in a new dresse, called Reformation, that <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t is like to proove no o<g ref="char:EOLhyphen"/>ther then an Assasination of the Monarchy, and a redu<g ref="char:EOLhyphen"/>cing of the old privados to oppresse them more rigrously with new ones; <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hey have found, how wee seeke to skrew our selves in, by our Ingeneers of the Clergy, to whom wee have promised if they will make us Lords to allow them power to rule joyntly with us, but aw for pity all our pretences, equivocations, false glosses, and sophistica<g ref="char:EOLhyphen"/>tions are so apparent, that in gud faith wee drad mickle, wee fall nere be pinniond, and that the Army will rather establish Episcopacy then Presbytery; but what greatly disturbeth us, the D<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rectory, that new edition of the old Common-prayer booke is crusht even in the bud that pi<g ref="char:EOLhyphen"/>thy vollume which <hi>Bifield</hi> and <hi>Robrough</hi> spent so many houres in composing, correcting, and augmenting to their expence of time, and losse of sleepe; yea and credibly not without the decey of their wits, lies now like an old <hi>ER<g ref="char:EOLhyphen"/>RAPATER,</hi> in a Farmers house sometimes taken down, only to wonder at, alas, alas good Directory, she and we are equally despised of our deare brethren, and wee feare, thou maiest as soone be read in Pauls by Dr. <hi>Burges,</hi> as our Scottish Government be established in England, for woe and alas, our grand defender Mr. <hi>Prin</hi> is forced away from his Inne, he alone would have stood in the gap, and have apollogized for us, had he remained in London, but now wee may adde a tenth query to his owne nine; whe<g ref="char:EOLhyphen"/>ther
+<pb n="6" facs="tcp:114478:5"/> or no Mr. <hi>Prin</hi> hath not divulged the barenesse of that cause he lately so stifely maintained, by running away when the time called him to justifie it: Finally deare Brethren since it is so, that contrary to our expectations, you intend every man to be a Lord of his owne, wee can<g ref="char:EOLhyphen"/>not but bewaile in briny teares your owne wisedome, and our owne losse, and shall be contented, for such is our af<g ref="char:EOLhyphen"/>fections to you, to let you enjoy your owne with safety, untill wee shall come a second time (for all your Goods.)</p>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <head>Postscript.</head>
+            <l>ALas Deare <hi>Jockey,</hi> thou hast slipt thy hold,</l>
+            <l>And thou must rest content with former gold</l>
+            <l>Thou h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dst for helping us, when it was cold:</l>
+            <l>The time is changed, since <hi>Charles</hi> by thee was sold,</l>
+            <l>Which to thine infamy shall aye be told,</l>
+            <l>Weel beat thee home, with losses manifold.</l>
+            <trailer>Finis coronat opus.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
